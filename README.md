@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go (Golang) and Rust programming for various applications.
 - 💞️ I’m looking to collaborate on Go (Golang) and Rust microprojects. Always open for open source contribution.
 - 📫 How to reach me : @SagarDivetiya
-- 😄 Pronouns: SaggyRusty
+- 😄 Pronouns: RS_king
 - ⚡ Fun fact: Did you know that the SOLID principles were introduced by Robert C. Martin, also known as “Uncle Bob,” in the early 2000s. These principles are designed to make software designs more understandable, flexible, and maintainable.
 
 <!---
